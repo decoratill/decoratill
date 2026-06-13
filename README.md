@@ -1,14 +1,11 @@
 <p align="left">
   <a href="https://faggotill.atabook.org">ata</a> ‎ ‎ 
-  <a href="https://x.com/i/status/1901329804340912606">credit</a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=BlRD-Y&label=&color=grey&style=flat" />
-</p>
-
-<p align="left">
-  <img src="https://files.catbox.moe/z5d07u.jpg" width="350"/>
+<p align="center">
+<img src="https://files.catbox.moe/dzh9of.png" width="65%">
+</a>
+<img src="https://files.catbox.moe/f5qjav.png" width="30%">
 </p>
 
 <p align="center">
