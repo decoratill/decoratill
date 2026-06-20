@@ -1,13 +1,5 @@
-<p align="left">
-  <a href="https://faggotill.atabook.org">ata</a> ‎ ‎ 
-</p>
-
-<p align="center">
-<img src="https://files.catbox.moe/dzh9of.png" width="65%">
-</a>
-<img src="https://files.catbox.moe/f5qjav.png" width="30%">
-</p>
-
-<p align="center">
-  wip .ᐟ ill update this later (probably)
-</p>
+<div align="center">
+  
+<a href="https://faggotill.atabook.org">ata新</a>
+  
+<a href="https://x.com/i/status/1958037748180299863">pfp</a>
